@@ -1,4 +1,7 @@
-# Bitcoin-Chinese-Community-Wiki
+# Bitcoin 比特幣中文社團 的維基百科
+歡迎來到Bitcoin 比特幣中文社團 的維基百科    
+Bitcoin-Chinese-Community-Wiki 致力於 探討 比特幣的技術原理，包括密碼學、網路學、區塊練技術，甚至包括經濟模型等等。除了技術探討外亦有包括介紹加密或幣於世界運作的企業介紹，以及交易所介紹，還有台鏈區塊鏈及加密或幣相關介紹。
+
 # 比特幣簡介
 * [bitcoin.org 首頁](https://bitcoin.org/zh_TW/)
 * [bitcoin.org 比特幣常見問題](https://bitcoin.org/zh_TW/faq)
